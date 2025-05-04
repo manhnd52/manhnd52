@@ -2,7 +2,7 @@
 - 👀 I’m interested in **NLP, and Data Analysis**
 - 🌱 I’m currently learning Machine Learning.
 
-- 📫 Im a student at Hanoi University of Science And AI
+- 📫 Im a student at Hanoi University of Science And Technology
 - - ⚡ Fun fact: I like learning everything, exploring the world, reading book, listening music
 
 
